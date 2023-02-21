@@ -1,1 +1,1 @@
-solutions to sorting tasks
+Solution to tasks on Sorting algorithms
